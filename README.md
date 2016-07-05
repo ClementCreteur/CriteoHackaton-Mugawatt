@@ -1,2 +1,6 @@
 # CriteoHackaton-Mugawatt
-The code of the connected mug - quickly (and dirtly) develloped in 36h
+The code of the connected mug - quickly (and dirtly) developed in 36h
+
+This was mainly coded by:
+- Diane Gasselin
+- Christophe Juniet
